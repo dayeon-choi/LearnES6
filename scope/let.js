@@ -13,6 +13,6 @@ function home(){
     }
     // console.log(myif) 찾을 수 없다고 뜸
 
-//    console.log(i); 찾을 수 없다고 뜸
+//    console.log(i); 찾을 수 없다고 뜸!
 }
 home();
